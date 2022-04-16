@@ -1,0 +1,66 @@
+#MonkImage {
+    width: 300px;
+    height: 200px;
+    margin-bottom: 10px;
+  
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.title {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 150px;
+  font-size: 40px;
+}
+
+#fact {
+  font-style: italic;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.label {
+  font-weight: bold;
+
+}
+
+#list {
+  list-style: none;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+#main-div {
+  border: 1px solid black;
+  width: 500px;
+  height: 700px;
+  margin: 0 auto;
+  margin-top: 56px;
+  border-radius: 25px;
+}
+
+#main-div {
+  background: #e7efc5;
+  padding: 10px;
+  width: 500px;
+}
+
+#animal-info {
+  border: 1px black;
+  
+}
+
+#animal-info {
+  background: blueviolet
+}
+
+#info{
+  margin-left: 10px;
+  margin-right: 10px;
+}
